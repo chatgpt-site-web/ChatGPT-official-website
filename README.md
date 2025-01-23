@@ -2,7 +2,7 @@
 
 > **最新更新：2025年1月23日**
 
-欢迎访问【**ChatGPT 中文版**】国内使用指南！本文将全面教您如何**无需翻墙，轻松使用 ChatGPT**，并提供可靠的镜像网站，**无限使用 GPT-4、4o 和 o1**型号，助您高效利用人工智能助手。
+欢迎使用【**ChatGPT 中文版**】国内使用指南！本文将全面教您如何**无需翻墙，轻松使用 ChatGPT**，并提供可靠的镜像网站，**无限使用 GPT-4、4o 和 o1**型号，助您高效利用人工智能助手。
 
 ## 目录
 1. [推荐的国内 ChatGPT 镜像网站](#1-推荐的国内-chatgpt-镜像网站)
@@ -23,7 +23,6 @@
 |------------|------|----------|----------|----------|--------|----------|
 | 一下AI | [www.yixiaai.com](https://www.yixiaai.com/) | GPT-4、4o、o1 | 有 | 扫码即可 | 高 | 支持 AI绘画、AI助手、AI插件、AI PPT等 |
 | AI智慧岛 | [chat.lify.vip](https://chat.lify.vip/) | GPT-4o、4o mini、o1 | 有 | 扫码即可 | 高 | 支持多模型，AI写作、AI编程、AI工作助手 |
-| AI工具站 | [yixiaai.cn](https://yixiaai.cn/) | GPT-4、o1 | 有 | 扫码即可 | 高 | 稳定快速，各种AI工具支持 |
 | AI指南 | [guide1.lanjing.ai](https://guide1.lanjing.ai/) | GPT-4、o1 | 有 | 扫码即可 | 高 | 提供详细的AI使用指南 |
 | 小鲸鱼AI | [ai.lansejingyu.com](https://ai.lansejingyu.com/) | GPT-4、4o | 有 | 扫码即可 | 中 | 界面简洁，操作便捷 |
 | 蓝鲸AI | [lanjing.ai](https://lanjing.ai/) | GPT-4、4o | 有 | 扫码即可 | 中 | 最新模型支持，持续更新 |
